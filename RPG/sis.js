@@ -1,6 +1,6 @@
 const readline = require("readline-sync");
 
-let nome = readline.question('Ola, Jogador! Qual seu nome?');;
+let nome = readline.question('Ola, Jogador! Qual seu nome? \n meu nome é ');
 let vida = 10;
 let ouro = 0;
 let gameplay = true; 
