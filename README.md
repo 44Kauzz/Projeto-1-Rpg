@@ -10,6 +10,7 @@ O jogo utiliza o módulo `readline-sync` para capturar a entrada do usuário de 
 
 ## Funcionalidades
 - Criação de personagem com nome do jogador.
+- RPG de texto interativo.
 - Sistema de vida e ouro.
 - Exploração com eventos aleatórios:
   - Batalhas com monstros
